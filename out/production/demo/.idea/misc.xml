@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="JavadocGenerationManager">
+    <option name="OUTPUT_DIRECTORY" value="D:/学习/unimelb/2022S2/90041" />
+    <option name="OTHER_OPTIONS" value="-encoding GBK -charset GBK -windowtitle &quot;JavaDoc使用详解&quot; -link https://docs.oracle.com/javase/8/docs/api" />
+    <option name="HEAP_SIZE" value="1024" />
+  </component>
+  <component name="ProjectRootManager" version="2" project-jdk-name="18" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>
