@@ -274,6 +274,7 @@ public class HRAssistant {
                 if (isNumeric1(split[4])){
                     Q2+= Integer.parseInt(split[4]);
                 }
+                Q2 = Q2/readA.size();
             }
 
             String R1="n/a";
